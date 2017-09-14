@@ -1,6 +1,6 @@
 SHELL = /bin/bash
 
-export NAME= temporis-cli
+export NAME=temporis
 export LINK=
 export INCLUDE= -I$(BASE_PATH)/$(EXTERNAL_DIR)/cli/include
 export TYPE= exe
